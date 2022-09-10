@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main() {
-	char greet[] = "Hello, Coding Universe!";
-	printf("%s", greet);
-	return 0;
+int main(void) 
+{
+	printf("Hello, Engineering Folks!");
+	return (0);
 }
