@@ -7,9 +7,7 @@
  */
 int main(void)
 {
-/* Data types */
-
-        char a;
+	char a;
 	int b;
 	long int c;
 	long long int d;
@@ -21,7 +19,4 @@ int main(void)
 	printf("Size of a long long int: %lu byte(s)\n", (unsigned long)sizeof(d));
 	printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(e));
 	return (0);
-/* Commands used to compile this program for different system architectures: */
-/* 64-bit: gcc 6-size.c -m64 -o size64 2> /tmp/64 */
-/* 32-bit: gcc 6-size.c -m32 -o size32 2> /tmp/32 */
 }
