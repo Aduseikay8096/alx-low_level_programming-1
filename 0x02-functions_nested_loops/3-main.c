@@ -8,6 +8,15 @@
 
 int main(void)
 {
-        is_lower();
+        int alpha;
+
+        alpha = _islower('A');
+        _putchar(alpha + '0');
+        alpha = _islower('b');
+        _putchar(alpha + '0');
+        alpha = _islower('500');
+        _putchar(alpha + '0');
+        _putchar('\n');
+        
         return (0);
 }
