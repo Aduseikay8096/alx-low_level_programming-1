@@ -3,8 +3,8 @@
 #include <stdlib.h>
 
 /**
- * string_nconcat - function to concatnate strings with n bytes
- * @s1: destination for concatnation
+ * string_nconcat - a function that concatenates string with n bytes
+ * @s1: destination for concatenation
  * @s2: source of string
  * @n: int type for size of byte
  * Return: pointer to new memory allocated
