@@ -1,5 +1,3 @@
-# ALX-Low_Level_Programming
+# ALX Low Level Programming
 
-This is the very beginning of a new adventure.
-
-... shall be updated when due.
+This repo contains all the C programming exercises in the ALX Software Engineering program.
