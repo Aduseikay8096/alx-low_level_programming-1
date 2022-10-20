@@ -10,4 +10,4 @@ main:
 	syscall
 
 m:
-	db "Hello, Holberton", 10
+	db "Hello, Holberton\n", 10, 0
