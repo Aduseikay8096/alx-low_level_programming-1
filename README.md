@@ -1,10 +1,10 @@
-## Low-Level Programming and Algorithm
+## Low-level programming & Algorithm
 
 This repository is my very first experience coding with the masterclass, C programming language
 
 - This repository is the core learning material covered in the probation and first trimester of the ALX Full Stack Software Engineering program.
 
---------------------------------------------
+------------------------------------------------------
 
 ## Description
 
