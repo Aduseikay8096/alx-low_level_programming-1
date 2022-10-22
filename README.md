@@ -42,5 +42,6 @@ To execute:  `./name_of_executable`
 |*[0x0B-malloc_free](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0B-malloc_free "0x0B-malloc_free")*|README.md, 0-create_array.c, 1-strdup.c, 2-str_concat.c, 3-alloc_grid.c, 4-free_grid.c, 100-argstostr.c, 101-strtow.c, main.h|
 |*[0x0C-more_malloc_free](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0C-more_malloc_free "0x0C-more_malloc_free")*|README.md, 0-malloc_checked.c, 1-string_nconcat.c, 2-calloc.c, 3-array_range.c, 100-realloc.c, 101-mul.c, main.h|
 |*[0x0D-preprocessor](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0D-preprocessor "0x0D-preprocessor")*|README.md, 0-object_like_macro.h, 1-pi.h, 2-main.c, 3-function_like_macro.h, 3-main.c, 4-sum.h|
+|*[0x0E-structures_typedef](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0E-structures_typedef "0x0E-structures_typedef")*|README.md, 1-init_dog.c, 2-print_dog.c, 4-new_dog.c, 5-free_dog.c, dog.h|
 
 # alx-low_level_programming
