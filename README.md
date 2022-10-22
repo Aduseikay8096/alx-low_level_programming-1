@@ -38,5 +38,6 @@ To execute:  `./name_of_executable`
 |*[0x09-static_libraries](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x09-static_libraries "0x09-static_libraries")*|README.md, _putchar.c, 0-isupper.c, 0-memset.c, 0-strcat.c, 1-isdigit.c, 1-memcpy, 1-strncat.c, 2-strchr.c, 2-strlen.c, 2-strncpy.c, 3-islower.c, 3-puts.c, 3-strcmp.c, 3-strspn.c, 4-isalpha.c, 4-strpbrk.c, 5-strstr.c, 6-abs.c, 9-strcpy.c, 100-atoi.c, create_static_lib.sh,libmy.a, main.h|
 |*[0x10-variadic_functions](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x10-variadic_functions "0x10-variadic_functions")*|README.md, 0-sum_them_all.c, 1-print_numbers.c, 2-print_strings.c, 3-print_all.c, variadic_functions.h|
 |*[0x12-singly_linked_lists](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x12-singly_linked_lists "0x12-singly_linked_lists")*|README.md, 0-print_list.c, 1-list_len.c, 2-add_node.c, 3-add_node_end.c, 4-free_list.c, 100-first.c, 101-hello_holberton.asm, lists.h|
+|*[0x0A-argc_argv](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0A-argc_argv "0x0A-argc_argv")*|)*|README.md, 0-whatsmyname.c, 1-args.c, 2-args.c, 3-mul.c, 4-add.c, 100-change.c, main.h|
 
 # alx-low_level_programming
