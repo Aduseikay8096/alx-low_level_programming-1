@@ -40,5 +40,6 @@ To execute:  `./name_of_executable`
 |*[0x12-singly_linked_lists](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x12-singly_linked_lists "0x12-singly_linked_lists")*|README.md, 0-print_list.c, 1-list_len.c, 2-add_node.c, 3-add_node_end.c, 4-free_list.c, 100-first.c, 101-hello_holberton.asm, lists.h|
 |*[0x0A-argc_argv](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0A-argc_argv "0x0A-argc_argv")*|)*|README.md, 0-whatsmyname.c, 1-args.c, 2-args.c, 3-mul.c, 4-add.c, 100-change.c, main.h|
 |*[0x0B-malloc_free](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0B-malloc_free "0x0B-malloc_free")*|README.md, 0-create_array.c, 1-strdup.c, 2-str_concat.c, 3-alloc_grid.c, 4-free_grid.c, 100-argstostr.c, 101-strtow.c, main.h|
+|*[0x0C-more_malloc_free](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x0C-more_malloc_free "0x0C-more_malloc_free")*|README.md, 0-malloc_checked.c, 1-string_nconcat.c, 2-calloc.c, 3-array_range.c, 100-realloc.c, 101-mul.c, main.h|
 
 # alx-low_level_programming
