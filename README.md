@@ -1,4 +1,4 @@
-## Low-level programming & Algorithm
+## Low-level Programming & Algorithm
 
 This repository is my very first experience coding with the masterclass, C programming language
 
