@@ -1,3 +1,3 @@
-# File I/O
+# 0x15-file_io
 
-This directory is contains exercises on the file input and output in C programming language.
+-------------
