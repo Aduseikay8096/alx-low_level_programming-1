@@ -1,3 +1,3 @@
-# Static Libraries
+# 0x09-static_libraries
 
-This directory contains necessary files for the creation of static libraries.
+------------------------
