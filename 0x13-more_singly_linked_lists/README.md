@@ -1,4 +1,3 @@
-# More Singly Linked Lists
+# 0x13-more_singly_linked_lists
 
-This is a continuation from the previous linked list exercise.
-
+-------------------------------
