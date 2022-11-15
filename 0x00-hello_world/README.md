@@ -1,6 +1,6 @@
-# Hello World
+# 0x00-hello_world
 
-This directory contains the first set of exercises programming with C.
+---------------------------
 
 ## How to Execute File
 
