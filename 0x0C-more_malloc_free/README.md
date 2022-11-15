@@ -1,4 +1,3 @@
-# More Malloc, Free
+# 0x0C-more_malloc_free
 
-This directory contain more exercises on malloc and free functions.
-
+--------------------------
