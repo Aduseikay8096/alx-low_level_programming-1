@@ -1,3 +1,3 @@
-# More Pointers, Arrays, and Strings
+# 0x07-pointers_arrays_strings
 
-This directory is a continuation of the pointers, arrays, and strings lessons.
+------------------------------
