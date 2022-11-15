@@ -1,4 +1,3 @@
-# Structure, Typedef
+# 0x0E-structure_typedef
 
-This directory contains exercises in the structures/typedef lesson.
-
+------------------------
