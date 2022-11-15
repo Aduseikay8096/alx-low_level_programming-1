@@ -1,3 +1,3 @@
-# Recursion
+# 0x08-recursion
 
-This directory contains exercises on recursive functions.
+----------------
