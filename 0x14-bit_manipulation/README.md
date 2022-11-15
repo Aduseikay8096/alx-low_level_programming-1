@@ -1,3 +1,3 @@
-# Bit Manipulation
+# 0x14-bit_manipulation
 
-This directory contains exrecises in bit manipulation in C.
+-----------------------
