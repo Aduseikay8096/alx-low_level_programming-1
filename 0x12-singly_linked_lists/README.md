@@ -1,3 +1,3 @@
-# Singly Linked Lists
+# 0x12-singly_linked_lists
 
-This directory contains all the exercises in the singly kind of linked lists challenge.
+--------------------------
