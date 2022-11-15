@@ -1,4 +1,3 @@
-# Function Pointers
+# 0x0F-function_pointers
 
-All the exercises taken in this directory shall be recorded here.
-
+---------------------
