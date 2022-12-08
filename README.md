@@ -14,16 +14,12 @@ The C programming language, developed by Dennis Ritchie between 1969 and 1972 at
 
 To compile a file with the function is necessary to add all the .c files involved in the program (functions, signature files, etc). Codes will be compiled this way:
 
-```
-gcc -Wall -Werror -Wextra -pedantic *.c -o name_of_executable
-
-```
+`gcc -Wall -Werror -Wextra -pedantic *.c -o name_of_executable`
 
 To execute:  `./name_of_executable`
 
 ## Project/Files Description
 
---------------------------------------
 |Project|File Contents|
 |--|--|
 |**[0x01-hello_world](https://github.com/ikwuka/alx-low_level_programming/tree/master/0x00-hello_world)**|README.md, 0-preprocessor, 1-compiler, 2-assembler, 3-name, 4-puts.c, 5-printf.c, 6-size.c|
